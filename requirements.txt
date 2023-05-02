@@ -52,7 +52,7 @@ executing==1.2.0
 fastjsonschema==2.16.3
 filelock==3.12.0
 fitz==0.0.1.dev2
-Flask==2.2.2
+Flask==2.3.2
 Flask-WTF==1.1.1
 ftfy==6.1.1
 future==0.18.3

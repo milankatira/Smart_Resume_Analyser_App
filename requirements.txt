@@ -57,7 +57,7 @@ Flask-WTF==1.1.1
 ftfy==6.1.1
 future==0.18.3
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.1.37
 h11==0.14.0
 httplib2==0.14.0
 idna==3.4

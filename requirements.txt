@@ -244,7 +244,7 @@ watchdog==3.0.0
 wcwidth==0.2.6
 webencodings==0.5.1
 websocket-client==1.5.1
-Werkzeug==2.2.3
+Werkzeug==3.0.1
 wn==0.0.23
 wsproto==1.2.0
 WTForms==3.0.1
